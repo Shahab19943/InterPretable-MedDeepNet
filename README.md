@@ -1,7 +1,4 @@
-<p align="center">
-  <video src="demo.mp4" width="850" controls>
-  </video>
-</p>
+<video src="./demo.mp4" controls></video>
 
 ## Interpretable-MedDeepNet
 
