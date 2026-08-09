@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="demo.mp4" width="850"/>
+  <video src="demo.mp4" width="850" controls>
+  </video>
 </p>
 
 ## Interpretable-MedDeepNet
