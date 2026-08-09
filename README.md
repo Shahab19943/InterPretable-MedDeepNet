@@ -1,4 +1,13 @@
-<video src="./demo.mp4" controls></video>
+<p align="center">
+  <video
+    src="https://github.com/Shahab19943/InterPretable-MedDeepNet/blob/main/demo.mp4"
+    width="850"
+    controls>
+  </video>
+</p>
+
+
+
 
 ## Interpretable-MedDeepNet
 
