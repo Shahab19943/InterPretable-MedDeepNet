@@ -1,9 +1,5 @@
 <p align="center">
-  <video
-    src="https://github.com/Shahab19943/InterPretable-MedDeepNet/blob/main/demo.mp4"
-    width="850"
-    controls>
-  </video>
+  <img src="Repo1.png" width="850"/>
 </p>
 
 
