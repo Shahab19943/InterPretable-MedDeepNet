@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Repo1.png" width="850"/>
+  <img src="demo.mp4" width="850"/>
 </p>
 
 ## Interpretable-MedDeepNet
